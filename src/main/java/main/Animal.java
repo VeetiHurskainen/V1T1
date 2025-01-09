@@ -6,8 +6,8 @@ public class Animal {
     int age;
 
     public Animal(String name, String species, int age) {
-        this.name = "Michael";
-        this.species = "orangutan";
-        this.age = 10;
+        this.name = name;
+        this.species = species;
+        this.age = age;
     }
 }
